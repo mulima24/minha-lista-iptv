@@ -249,7 +249,7 @@ https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sbtrj.m3u8
 https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/sbtsp.m3u8
 
 # --- CATEGORIA: ABERTOS ---
-#EXTINF:-1 tvg-id="Aparecida_Aberto" tvg-logo="https://embedtv.live/assets/images/aparecida.png" group-title="Abertos",TV Aparecida
+#EXTINF:-1 tvg-id="Aparecida_Aberto" tvg-logo="https://embedtv.live/assets/images/aparecida.png" group-title="Abertos",Aparecida
 https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/aparecida.m3u8
 #EXTINF:-1 tvg-id="BandNews_Aberto" tvg-logo="https://embedtv.live/assets/images/bandnews.png" group-title="Abertos",Band News
 https://cf6de5f8556fc693676447ce3a8955e0.cloudfronte.lat/zzzstream/bandnews.m3u8
